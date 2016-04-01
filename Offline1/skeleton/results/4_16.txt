@@ -1,0 +1,10 @@
+Debug Mode: 0
+Total number of TLB Entries: 4
+Total number of Page Frames: 16
+Total number of Instructions: 100000
+Total number of Virtual Pages: 256
+On Average Virtual Address Page Changes after: 125
+Total number of Cache Misses: 741
+Total number of Page Faults: 707
+Total number of Page Used: 243
+Total number of Page Changed: 751
